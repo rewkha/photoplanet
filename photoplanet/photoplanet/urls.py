@@ -20,6 +20,10 @@ urlpatterns = patterns('',
         r'^all/',
         TemplateView.as_view(template_name="photoplanet/all.html"),
         name='all'),
+    url(r'^about/', 'photoplanet.views.about', name='about'),
+    url(r'^login/', 'photoplanet.views.login', name='login'),
+    url(r'^day/', 'photoplanet.views.day', name='day'),
+
     url(r'^feedback/', include('feedback.urls'))
 )
 

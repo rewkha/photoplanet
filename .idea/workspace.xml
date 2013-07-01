@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a553d1e7-d448-4fc9-ae0d-0a2553aac5c2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/img/005e5982a92911e2a9ff22000aaa0374_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/img/025e32f2a91011e2ada322000a1fbcdb_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/img/19f50c56a91011e2b39c22000a1f8adc_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/img/3b0308fea92311e2af2c22000a1f9069_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/img/444ae54cc2ee11e1aee522000a1e8a5f_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/boxy_files/500x500&amp;text=Image" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/boxy_files/500x500&amp;text=Thumbnail" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_alert-boxes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_block-grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_breadcrumbs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_button-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_clearing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_custom-forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_dropdown-buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_dropdown.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_flex-video.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_inline-lists.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_joyride.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_keystrokes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_magellan.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/c1752283f77a178a90a84add5616253550f43863/_normalize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_orbit.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_pricing-tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_progress-bars.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_reveal.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_section.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/c1752283f77a178a90a84add5616253550f43863/_settings.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_side-nav.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_split-buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_sub-nav.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_switch.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_thumbs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_tooltips.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_top-bar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/f93f9209539f8a79ddfef6c87e569592fcd076be/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/c1752283f77a178a90a84add5616253550f43863/app.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/cde4e19b0fa0939ec8b1dfaa63356270970ad9be/foundation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/img/profile_201076600_75sq_1364110539.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/img/profile_254369646_75sq_1364538697.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/img/profile_28344997_75sq_1362660285.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/img/profile_284788534_75sq_1362858679.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/img/profile_35307422_75sq_1355919594.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/feedback/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/photoplanet/settings/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/photoplanet/templatetags/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_global.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/sass/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/sass/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_type.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/.sass-cache/32a796d1b221da4bafb359f470d92dfd4065300e/_visibility.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/templates/photoplanet/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/templates/photoplanet/all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/stylesheets/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/sass/app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/boxy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/boxy_files/custom.modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/vendor/custom.modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/vendor/custom.modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/templates/photoplanet/day.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/templates/feedback/feedback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.alerts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.alerts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.clearing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.clearing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.interchange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.joyride.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.joyride.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.magellan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.magellan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/boxy_files/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.orbit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.orbit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.reveal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.reveal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.section.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.section.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.tooltips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.tooltips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/foundation/foundation.topbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/foundation/foundation.topbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/humans.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/templates/photoplanet/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/vendor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/vendor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/templates/photoplanet/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/feedback/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/templates/photoplanet/photo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/templates/photoplanet/photo_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photoplanet.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/photoplanet/templatetags/photoplanet_extra.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/testrunner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/feedback/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/feedback/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/feedback/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/boxy_files/zepto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mockups/javascripts/vendor/zepto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoplanet/static/js/vendor/zepto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/photoplanet/photoplanet/settings.py" afterPath="$PROJECT_DIR$/photoplanet/photoplanet/settings/base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Makefile" afterPath="$PROJECT_DIR$/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photoplanet/manage.py" afterPath="$PROJECT_DIR$/photoplanet/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photoplanet/photoplanet/urls.py" afterPath="$PROJECT_DIR$/photoplanet/photoplanet/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photoplanet/photoplanet/views.py" afterPath="$PROJECT_DIR$/photoplanet/photoplanet/views.py" />
+    </list>
+    <ignored path="photoplanet.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="a553d1e7-d448-4fc9-ae0d-0a2553aac5c2" time="1372709480250" ignored="false" />
+    <file path="/base.py" changelist="a553d1e7-d448-4fc9-ae0d-0a2553aac5c2" time="1372713726794" ignored="false" />
+    <file path="/index.html" changelist="a553d1e7-d448-4fc9-ae0d-0a2553aac5c2" time="1372710839229" ignored="false" />
+    <file path="/urls.py" changelist="a553d1e7-d448-4fc9-ae0d-0a2553aac5c2" time="1372711026172" ignored="false" />
+    <file path="$PROJECT_DIR$/../../dudarev/photoplanet/photoplanet/photoplanet/templatetags/photoplanet_extra.py" changelist="a553d1e7-d448-4fc9-ae0d-0a2553aac5c2" time="1372714030006" ignored="false" />
+    <file path="/a.dummy" changelist="a553d1e7-d448-4fc9-ae0d-0a2553aac5c2" time="1372713262883" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="photoplanet" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photoplanet/templates/photoplanet/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="14" selection-start="855" selection-end="855" vertical-scroll-proportion="-16.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photoplanet/photoplanet/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="32" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photoplanet/templates/photoplanet/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photoplanet/photoplanet/settings/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="93" column="40" selection-start="3279" selection-end="3279" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#44#106#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="9" selection-start="44" selection-end="44" vertical-scroll-proportion="0.12437811">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photoplanet/templates/photoplanet/day.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photoplanet/feedback/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/photoplanet/feedback/urls.py" />
+        <option value="$PROJECT_DIR$/photoplanet/feedback/views.py" />
+        <option value="$PROJECT_DIR$/photoplanet/photoplanet/views.py" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/photoplanet/templates/photoplanet/index.html" />
+        <option value="$PROJECT_DIR$/photoplanet/photoplanet/urls.py" />
+        <option value="$PROJECT_DIR$/photoplanet/photoplanet/templatetags/photoplanet_extra.py" />
+        <option value="$PROJECT_DIR$/photoplanet/photoplanet/templatetags/__init__.py" />
+        <option value="$PROJECT_DIR$/photoplanet/photoplanet/settings/base.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photoplanet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dudarev/photoplanet" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/photoplanet/feedback" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/photoplanet/photoplanet/settings" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="photoplanet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="photoplanet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="photoplanet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a553d1e7-d448-4fc9-ae0d-0a2553aac5c2" name="Default" comment="" />
+      <created>1371579344312</created>
+      <updated>1371579344312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31118315" sideWeight="0.99085367" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/photoplanet/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="14" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoplanet/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="7" selection-start="696" selection-end="696" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="25" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoplanet/photoplanet/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoplanet/photoplanet/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="32" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoplanet/templates/photoplanet/day.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoplanet/templates/photoplanet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="14" selection-start="855" selection-end="855" vertical-scroll-proportion="-16.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoplanet/static/img/005e5982a92911e2a9ff22000aaa0374_6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoplanet/templates/photoplanet/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoplanet/feedback/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="199" selection-end="199" vertical-scroll-proportion="0.2238806">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoplanet/photoplanet/templatetags/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoplanet/photoplanet/templatetags/photoplanet_extra.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="191" selection-end="191" vertical-scroll-proportion="0.24875621">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoplanet/feedback/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoplanet/photoplanet/settings/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="40" selection-start="3279" selection-end="3279" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#44#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="9" selection-start="44" selection-end="44" vertical-scroll-proportion="0.12437811">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

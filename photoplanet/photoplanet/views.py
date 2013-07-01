@@ -1,9 +1,4 @@
-from django.http import HttpResponse
+from django.shortcuts import render_to_response
 
 def home(request):
-    content = '''<html>
-<body>
-Hello, World!
-</body>
-</html>'''
-    return HttpResponse(content)
+    return render_to_response('photoplanet/index.html')

@@ -1,12 +1,19 @@
 from django.conf.urls import include, patterns, url
 from django.views.generic import TemplateView
 from django.conf import settings
+from .views import HomePageListView, AllPhotoListView, PhotoDetailView
 
 urlpatterns = patterns('',
-    url(r'^$', 'photoplanet.views.home', name='home'),
-    url(r'^all/$', 'photoplanet.views.all', name='all'),
+    url(r'^$', HomePageListView.as_view(), name='home'),
+    url(r'^all/$', AllPhotoListView.as_view(), name='all'),
     url(r'^about/', 'photoplanet.views.about', name='about'),
     url(r'^day/', 'photoplanet.views.day', name='day'),
+
+        url(
+        r'^photo/(?P<pk>\w+)$',
+        PhotoDetailView.as_view(),
+        name='detail'
+    ),
 
     url(r'^feedback/', include('feedback.urls')),
 

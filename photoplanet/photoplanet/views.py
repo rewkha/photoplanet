@@ -8,6 +8,7 @@ from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from instagram.client import InstagramAPI
 
 from .models import Photo
+from .forms import *
 
 
 LARGE_MEDIA_MAX_ID = 100000000000000000
@@ -16,28 +17,26 @@ MEDIA_TAG = 'donetsk'
 PHOTOS_PER_PAGE = 10
 
 
-def home(request):
-    photos = Photo.objects.filter(
-        created_time__gte=date.today()).order_by(
-            '-like_count'
-        )[:PHOTOS_PER_PAGE]
-    return render(request, 'photoplanet/all.html', {'photos': photos})
+class HomePageListView(ListView):
+    model = Photo
+    template_name = 'photoplanet/index.html'
+    queryset = Photo.objects.filter(
+        created_time__gte=date.today()).\
+        order_by('-like_count')
+    context_object_name = 'photo_list'
+    paginate_by = 10
 
 
-def all(request):
-    photos = Photo.objects.order_by('-created_time').all()
+class AllPhotoListView(ListView):
+    model = Photo
+    template_name = 'photoplanet/all.html'
+    context_object_name = 'photo_list'
+    paginate_by = 10
+    queryset = Photo.objects.order_by('-created_time').all()
 
-    # https://docs.djangoproject.com/en/1.5/topics/pagination/
-    paginator = Paginator(photos, PHOTOS_PER_PAGE)
-    page = request.GET.get('page')
-    try:
-        photos = paginator.page(page)
-    except PageNotAnInteger:
-        photos = paginator.page(1)
-    except EmptyPage:
-        photos = paginator.page(paginator.num_pages)
 
-    return render(request, 'photoplanet/all.html', {'photos': photos})
+class PhotoDetailView(DetailView):
+    model = Photo
 
 
 def _img_tag(s):

@@ -30,7 +30,11 @@
          <li><a href="{% url 'day' %}" class="button">Today</a></li>
          <li><a href="{% url 'all' %}" class="button">All</a></li>
          <li><a href="{% url 'about' %}" class="button">About</a></li>
-         <li><a href="{% url 'login' %}" class="button">Login</a></li>
+         {% if user.is_authenticated %}
+            <li><a href="{% url 'logout' %}" class="button">Logout</a></li>
+         {% else %}
+            <li><a href="{% url 'login' %}" class="button">Login</a></li>
+         {% endif %}
         </ul>
       </div>
       <h1>

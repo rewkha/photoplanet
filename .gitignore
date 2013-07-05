@@ -5,4 +5,7 @@
 *.pyc
 .DS_Store
 *.DS_Store
-*.idea/*
+.idea/*
+photoplanet/photoplanet/settings/instagram.py
+photoplanet/photoplanet/settings/local.py
+photoplanet/photoplanet.db

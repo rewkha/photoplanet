@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% load staticfiles %}
+{% load photoplanet_extra %}
 
 
 {% block js %} {{ block.super }}
@@ -14,7 +15,7 @@
         <div class="row">
           <div class="large-4 columns hide-for-small">
             <img src="{{ photo.user_avatar_url }}" alt="avatar" />
-            <h6><a href="http://instagram.com/{{ photo.username }}" target="_blank">@{{ photo.username }}</a></h6>
+            <h6><a href="{% instagram_url photo.username %}" target="_blank">@{{ photo.username }}</a></h6>
           </div>
           <div class="large-8 columns centered">
             <img src="{{ photo.photo_url }}" alt="photo" /><br />

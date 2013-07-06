@@ -142,9 +142,9 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'photoplanet',
     'social_auth',
-    'feedback'
+    'feedback',
     # Uncomment the next line to enable the admin:
-    # 'django.contrib.admin',
+    'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
 )
@@ -180,6 +180,8 @@ LOGGING = {
 
 AUTHENTICATION_BACKENDS = (
     'social_auth.backends.contrib.instagram.InstagramBackend',
+    'social_auth.backends.google.GoogleOAuthBackend',
+    'social_auth.backends.google.GoogleOAuth2Backend',
     'django.contrib.auth.backends.ModelBackend',
 )
 

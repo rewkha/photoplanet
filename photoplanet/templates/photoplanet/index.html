@@ -8,10 +8,16 @@
 
 {% endblock css %}
 
-{% block content %}
-    <div class="large-9 columns" role="content">
+{% block js %} {{ block.super }}
+  <script src="{% static "js/vote.js" %}"></script>
+  <script type="text/javascript">
+        window.vote_url = "{% url 'photo-vote' %}";
+  </script>
+{% endblock js %}
 
-        <h2>Hello, man</h2>
+
+        {% block content %}
+    <div class="large-9 columns" role="content">
 
       {% for p in photo_list %}
 
@@ -30,9 +36,13 @@
               </a>
             likes: {{ p.like_count }}
             </div>
-          </div>
+            <div class="voting">
+              votes: <span>{{ p.vote_count }}</span>
+              <a href="#" class="js-vote" data-vote="1" data-id="{{ p.pk }}">+1</a> |
+              <a href="#" class="js-vote" data-vote="-1" data-id="{{ p.pk }}">-1</a>
+            </div>
         </div>
-
+        </div>
       </article>
 
       {% if not forloop.last %}
